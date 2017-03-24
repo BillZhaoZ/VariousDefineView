@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.defineview.bill.mydefineview.R;
 
+/**
+ * 自定义View (四) 视频音量调节控制
+ */
 public class CustomAudioControlActivity extends AppCompatActivity {
 
     @Override

@@ -10,6 +10,9 @@ import com.defineview.bill.mydefineview.viewgroup.FlowLayout;
 
 import java.util.ArrayList;
 
+/**
+ * 流式布局
+ */
 public class FlowLayoutActivity extends AppCompatActivity {
 
     @Override

@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.defineview.bill.mydefineview.R;
 
+/**
+ * ViewDragHelper完全解析 自定义ViewGroup神器
+ */
 public class VDHDeepLayoutActivity extends AppCompatActivity {
 
     @Override

@@ -3,6 +3,9 @@ package com.defineview.bill.mydefineview.utils;
 import android.util.Log;
 import android.view.View.MeasureSpec;
 
+/**
+ * 测量工具类
+ */
 public class MeasureSpecUtil {
 
     /**

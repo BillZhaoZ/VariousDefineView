@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.defineview.bill.mydefineview.R;
 
 /**
- * 自定义imageview界面
+ * 自定义View (二) 进阶
  */
 public class CustomImageViewActivity extends AppCompatActivity {
 

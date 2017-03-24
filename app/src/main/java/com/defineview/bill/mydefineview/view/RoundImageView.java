@@ -20,7 +20,6 @@ import android.widget.ImageView;
 
 import com.defineview.bill.mydefineview.R;
 
-
 /**
  * 自定义圆角view
  */

@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.defineview.bill.mydefineview.R;
 
+/**
+ * 手把手教您自定义ViewGroup（一）
+ */
 public class CustomImgContainerActivity extends AppCompatActivity {
 
     @Override
