@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:custom="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <com.defineview.bill.mydefineview.view.CustomTitleView
+        android:id="@+id/ctv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingTop="0dp"
+        custom:titleText="3712"
+        custom:titleTextColor="#ff0000"
+        custom:titleTextSize="50sp"/>
+
+</RelativeLayout>

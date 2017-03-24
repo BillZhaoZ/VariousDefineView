@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.defineview.bill.mydefineview">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="自定义控件合集"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.CustomViewActivity">
+        </activity>
+        <activity android:name=".ui.CustomImageViewActivity">
+        </activity>
+        <activity android:name=".ui.CustomProgressbarActivity">
+        </activity>
+        <activity android:name=".ui.CustomAudioControlActivity">
+        </activity>
+        <activity android:name=".ui.CustomImgContainerActivity">
+        </activity>
+        <activity android:name=".ui.VDHDeepLayoutActivity">
+        </activity>
+        <activity android:name=".ui.FlowLayoutActivity">
+        </activity>
+        <activity android:name=".ui.RoundCornerImageActivity">
+        </activity>
+        <activity android:name=".ui.NBProgressBarActivity">
+        </activity>
+    </application>
+
+</manifest>
